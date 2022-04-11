@@ -24,7 +24,7 @@
 
 .u-section-1 .u-text-2 {
   width: 353px;
-  margin: 56px auto 0;
+  margin: 41px auto 0;
 }
 
 .u-section-1 .u-text-3 {
@@ -123,8 +123,8 @@
 }
 
 .u-section-1 .u-text-1.u-text-1.u-text-1:hover {
-  transform: translateX(0px) translateY(0px) scale(1.1) !important;
-  border-color: #404040 !important;
+  transform: translateX(0px) translateY(0px) scale(1.1) rotate(0deg) !important;
+  border-color: transparent !important;
 }
 
 .u-section-1 .u-text-1 {
@@ -132,8 +132,8 @@
 }
 
 .u-section-1 .u-text-1.u-text-1.u-text-1.hover {
-  transform: translateX(0px) translateY(0px) scale(1.1) !important;
-  border-color: #404040 !important;
+  transform: translateX(0px) translateY(0px) scale(1.1) rotate(0deg) !important;
+  border-color: transparent !important;
 }
 
 .u-section-1 .u-text-1 {
